@@ -10,7 +10,7 @@ Interactive Visualizations: The app employs Plotly and Mapbox to create interact
 Forecasted Trends: The "Forecast Air Pollution Data" section displays a line chart that shows how AQI and individual pollutant concentrations are expected to change over time. You can select specific pollutants from the dropdown menu to focus on their forecasted trends.
 
 ## Example
-![image](https://github.com/tatkins20/air-quality-webapp/assets/25071944/526d5f61-8a3c-418d-9087-6fdf3dbeaf8c)
+![image](https://github.com/tatkins20/AirQualityWebapp/assets/25071944/e3b4cec9-a7db-46c4-98a9-6675d057e3d3)
 
 
 ## Setup (For Local Development)
